@@ -12,3 +12,26 @@ It will place your project compressed files in the project directory and the md5
 the hash folder.
 
 This tool is great for people who author programs, tools, platforms and wish to distribute them from a website.
+
+Download using Git
+git clone https://github.com/Keldo/DevCompressionTool.git
+
+Build either Debug or Release
+
+Create the directory structure
+DCT
+ ---- /project
+ ---- /hash
+ ---- /DCT.exe
+ 
+ Copy your project folder to teh DCT root
+ 
+ Run DCT.exe
+ 
+ Look for your .zip and .tar.gz in the project folder
+ 
+Your md5sum, sha1sum and sha256sum will be in the hash folder
+
+# Issues
+Please post any issues to our GitHub Issue Tracker
+https://github.com/Keldo/DevCompressionTool/issues
