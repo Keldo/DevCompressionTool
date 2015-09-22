@@ -14,16 +14,10 @@ the hash folder.
 This tool is great for people who author programs, tools, platforms and wish to distribute them from a website.
 
 Download using Git
-git clone https://github.com/Keldo/DevCompressionTool.git
 
 Build either Debug or Release
 
-Create the directory structure
-DCT
- ---- /project
- ---- /hash
- ---- /DCT.exe
- 
+# Using DCT
  Copy your project folder to teh DCT root
  
  Run DCT.exe
@@ -34,4 +28,3 @@ Your md5sum, sha1sum and sha256sum will be in the hash folder
 
 # Issues
 Please post any issues to our GitHub Issue Tracker
-https://github.com/Keldo/DevCompressionTool/issues
