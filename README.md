@@ -18,7 +18,7 @@ Download using Git
 Build either Debug or Release
 
 # Using DCT
- Copy your project folder to teh DCT root
+ Copy your project folder to the DCT root
  
  Run DCT.exe
  
