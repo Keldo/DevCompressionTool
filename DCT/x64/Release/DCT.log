@@ -1,0 +1,14 @@
+﻿Build started 2015-10-03 8:54:21 AM.
+     1>Project "C:\Users\Scott\Documents\Visual Studio 2013\Projects\DCT\DCT\DCT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt DCT.cpp
+         DCT.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Scott\Documents\Visual Studio 2013\Projects\DCT\x64\Release\DCT.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Scott\Documents\Visual Studio 2013\Projects\DCT\x64\Release\DCT.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Scott\Documents\Visual Studio 2013\Projects\DCT\x64\Release\DCT.lib" /MACHINE:X64 x64\Release\DCT.res
+         x64\Release\DCT.obj
+         DCT.vcxproj -> C:\Users\Scott\Documents\Visual Studio 2013\Projects\DCT\x64\Release\DCT.exe
+     1>Done Building Project "C:\Users\Scott\Documents\Visual Studio 2013\Projects\DCT\DCT\DCT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00

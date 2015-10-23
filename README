@@ -1,0 +1,7 @@
+ Copy your project to the project folder
+ 
+ Run DCT.exe
+ 
+ Look for your .zip and .tar.gz in the publish folder
+ 
+Your md5sum, sha1sum and sha256sum will be in the publish/hash folder

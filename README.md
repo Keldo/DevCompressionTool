@@ -18,13 +18,13 @@ Download using Git
 Build either Debug or Release
 
 # Using DCT
- Copy your project folder to the DCT root
+ Copy your project to the project folder
  
  Run DCT.exe
  
- Look for your .zip and .tar.gz in the project folder
+ Look for your .zip and .tar.gz in the publish folder
  
-Your md5sum, sha1sum and sha256sum will be in the hash folder
+Your md5sum, sha1sum and sha256sum will be in the publish/hash folder
 
 # Issues
 Please post any issues to our GitHub Issue Tracker
