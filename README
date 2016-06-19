@@ -2,6 +2,6 @@
  
  Run DCT.exe
  
- Look for your .zip and .tar.gz in the publish folder
+ Look for your .zip, .tar.gz and bz2 compressed files in the publish folder
  
 Your md5sum, sha1sum and sha256sum will be in the publish/hash folder

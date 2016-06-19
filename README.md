@@ -5,7 +5,7 @@ Written in C++
 
 Incorporates 7Zip, Tar, GZIP md5sums, sha1sums, sha256sums
 
-This project will create a Windows Zip file and a Linux tar.gz compressed file using the name of the folder that
+This project will create a Windows Zip file, a Linux tar.gz and bzip2 compressed files using the name of the folder that
 you submit after launching DCT.
 
 It will place your project compressed files in the project directory and the md5 sha1 and sha256 hashes in
@@ -22,7 +22,7 @@ Build either Debug or Release
  
  Run DCT.exe
  
- Look for your .zip and .tar.gz in the publish folder
+ Look for your .zip, .tar.gz and bz2 compressed files in the publish folder
  
 Your md5sum, sha1sum and sha256sum will be in the publish/hash folder
 
