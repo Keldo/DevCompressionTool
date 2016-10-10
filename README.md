@@ -3,6 +3,8 @@ Developers Compression Tool
 
 Written in C++
 
+<img src="https://ci.appveyor.com/api/projects/status/kujhsqfb4hpbllnw?svg=true">
+
 Incorporates 7Zip, Tar, GZIP md5sums, sha1sums, sha256sums
 
 This project will create a Windows Zip file, a Linux tar.gz and bzip2 compressed files using the name of the folder that
