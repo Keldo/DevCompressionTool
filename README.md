@@ -2,8 +2,9 @@
 Developers Compression Tool
 
 Written in C++
-
+<a href="https://ci.appveyor.com/project/Keldo/DevCompressionTool" target="_blank">
 <img src="https://ci.appveyor.com/api/projects/status/kujhsqfb4hpbllnw?svg=true">
+</a>
 
 Incorporates 7Zip, Tar, GZIP md5sums, sha1sums, sha256sums
 
@@ -30,3 +31,6 @@ Your md5sum, sha1sum and sha256sum will be in the publish/hash folder
 
 # Issues
 Please post any issues to our GitHub Issue Tracker
+
+# IRC
+This project's IRC Channel is on the Rizon Network, point your IRC client to irc.rizon.net and /join #twedev
