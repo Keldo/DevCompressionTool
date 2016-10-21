@@ -2,6 +2,7 @@
 Developers Compression Tool
 
 Written in C++
+
 <a href="https://ci.appveyor.com/project/Keldo/DevCompressionTool" target="_blank">
 <img src="https://ci.appveyor.com/api/projects/status/kujhsqfb4hpbllnw?svg=true">
 </a>
