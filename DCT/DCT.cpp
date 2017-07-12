@@ -13,6 +13,7 @@ int main()
 	printf("**** Created for Developers.****\n");
 	printf("Coded by DevWorks OSI dot Com.\n");
 	printf("Freedom in Open Source.\n");
+	printf("Version 1.0.7.\n");
 	printf("********************************\n");
 
 	std::cout << "Enter your project folders name: ";
