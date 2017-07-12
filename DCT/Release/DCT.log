@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9007: '/C' requires '/E, /EP or /P'; option ignored
+  DCT.cpp
+  Generating code
+  All 124 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DCT.vcxproj -> C:\Users\Scott\DevCompressionTool\Release\DCT.exe
+  DCT.vcxproj -> C:\Users\Scott\DevCompressionTool\Release\DCT.pdb (Full PDB)
