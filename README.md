@@ -3,6 +3,8 @@ Developers Compression Tool
 
 Written in C++
 
+Travis Build is failing because this was re targeted with Visual Studio 2017
+
 <a href="https://ci.appveyor.com/project/Keldo/DevCompressionTool" target="_blank">
 <img src="https://ci.appveyor.com/api/projects/status/kujhsqfb4hpbllnw?svg=true">
 </a>
