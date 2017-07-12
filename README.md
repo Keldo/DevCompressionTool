@@ -40,4 +40,4 @@ Your md5sum, sha1sum and sha256sum will be in the publish/projectname/hash folde
 Please post any issues to our GitHub Issue Tracker
 
 # IRC
-This project's IRC Channel is on the Rizon Network, point your IRC client to irc.rizon.net and /join #DevWorks
+This project's IRC Channel is on the FreeNode Network, point your IRC client to irc.freenode.net and /join #DevWorks
